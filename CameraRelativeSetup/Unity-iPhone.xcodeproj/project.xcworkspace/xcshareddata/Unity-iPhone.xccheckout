@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>DEC617E4-7E7F-469C-A797-DFAFFCA91F80</string>
+	<string>B514D00A-7807-41C9-BB10-060AF741D7FE</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Unity-iPhone</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>09933302-5DE3-4F5A-8E68-547E805AB930</key>
-		<string>https://github.com/applideveloper/PhotonMobile.git</string>
+		<key>B3F13324-0D2C-4652-9713-5E3486794A6D</key>
+		<string>ssh://github.com/applideveloper/PhotonMobile.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>CameraRelativeSetup/Unity-iPhone.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>09933302-5DE3-4F5A-8E68-547E805AB930</key>
+		<key>B3F13324-0D2C-4652-9713-5E3486794A6D</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/applideveloper/PhotonMobile.git</string>
+	<string>ssh://github.com/applideveloper/PhotonMobile.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>09933302-5DE3-4F5A-8E68-547E805AB930</string>
+	<string>B3F13324-0D2C-4652-9713-5E3486794A6D</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>09933302-5DE3-4F5A-8E68-547E805AB930</string>
+			<string>B3F13324-0D2C-4652-9713-5E3486794A6D</string>
 			<key>IDESourceControlWCCName</key>
 			<string>PhotonMobile</string>
 		</dict>
